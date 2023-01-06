@@ -28,5 +28,4 @@ react-responsive-carousel for the ={carousel slides}
   
   
  ------Videos.jsx--------
- 
- useState hooks is use
+1. useState hooks is use
